@@ -1,0 +1,2 @@
+Success message
+ls: cannot access 'fakefile': No such file or directory

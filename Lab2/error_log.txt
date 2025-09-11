@@ -1,0 +1,1 @@
+ls: cannot access 'thisfiledoesnotexist': No such file or directory
