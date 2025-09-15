@@ -6,6 +6,7 @@ This repository contains lab exercises and homework files for the **COS3105** co
 - `Lab1/` : Exercises for Lab 1
 - `Lab2/` : Exercises for Lab 2 (shell scripts, text files)
 - `Lab3/` : Exercises for Lab 3 (C++ programs with CSV files)
+- `Lab3.2/` : Exercises for Lab 3.2 (C++ programs with CSV files use pipe )
 
 ## ⚙️ Requirements
 - Linux environment (Ubuntu, Linux Mint, or WSL2 recommended)
